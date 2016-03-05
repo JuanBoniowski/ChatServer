@@ -1,4 +1,4 @@
-//tester
+
 #include <SPI.h>
 #include <Ethernet.h>
 #include <stdio.h>
